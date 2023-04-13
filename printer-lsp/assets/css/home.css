@@ -1,0 +1,11 @@
+#home img{
+    height: 200px;
+    object-fit: cover;
+    background-image: url('bgrn2.png');
+}
+#carouselHome .carousel-inner img{
+    height: 100vh;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center;
+}
